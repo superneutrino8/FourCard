@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Manage landing page design. Coding challenge by [Frontend Mentor](https://www.frontendmentor.io/).<br /> 
+Four card feature section design. Coding challenge by [Frontend Mentor](https://www.frontendmentor.io/).<br /> 
 
 [Click Here For Preview](https://superneutrino8.github.io/FourCard/)
 
