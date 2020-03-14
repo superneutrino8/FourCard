@@ -1,4 +1,4 @@
-# Frontend Mentor - Manage landing page
+# Frontend Mentor - Four card feature section
 
 ![Flyo Home Page](https://raw.githubusercontent.com/superneutrino8/FourCard/master/images/FourCard-Git.png)
 
